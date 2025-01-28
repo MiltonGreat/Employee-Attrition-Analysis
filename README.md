@@ -35,6 +35,8 @@ The objective is to gain insights into employee attrition by analyzing trends ac
 
 ### Visualizations
 
+![screenshot-localhost_8888-2025 01 28-10_50_28](https://github.com/user-attachments/assets/561a65ce-ca7a-4427-8cde-201abf369e34)
+
 - Bar charts for attrition rates by department, gender, and job satisfaction.
 - Line charts for trends such as attrition over years.
 
@@ -52,4 +54,4 @@ The objective is to gain insights into employee attrition by analyzing trends ac
 
 ### Source
 
-https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare
+Dataset: [Employee Attrition for Healthcare Dataset on Kaggle](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare)
